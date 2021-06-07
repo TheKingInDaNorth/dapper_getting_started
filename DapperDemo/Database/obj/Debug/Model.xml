@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="Database.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\ITZTU\ONEDRIVE\DESKTOP\GIT REPOSITORIES\DAPPER_GETTING_STARTED\DAPPERDEMO\DATABASE\OBJ\DEBUG\DATABASE.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\TUAN.VO\DESKTOP\GIT FOLDER\DAPPER_GETTING_STARTED\DAPPERDEMO\DATABASE\OBJ\DEBUG\DATABASE.DLL" />
 			<Metadata Name="AssemblyName" Value="Database" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\Database\obj\Debug\Database.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\Database.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

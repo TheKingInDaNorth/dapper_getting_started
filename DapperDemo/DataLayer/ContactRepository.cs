@@ -17,12 +17,17 @@ namespace DataLayer
 
         public Contact Add(Contact contact)
         {
-            throw new System.NotImplementedException();
+            var sql =
+                "INSERT INTO Contacts (FirstName, LastName, Email, Company, Title) VALUES (@FirstName, @LastName, @Email, @Company, @Title);" +
+                "SELECT CAST(SCOPE_IDENTITY() as int)";
+            var id = this.db.Query<int>(sql, contact).Single();
+            contact.Id = id;
+            return contact;
         }
 
         public Contact Find(int id)
         {
-            throw new System.NotImplementedException();
+            return this.db.Query<Contact>("SELECT * FROM Contacts WHERE Id = @Id", new { id }).SingleOrDefault();
         }
 
         public List<Contact> GetAll()
@@ -32,12 +37,21 @@ namespace DataLayer
 
         public void Remove(int id)
         {
-            throw new System.NotImplementedException();
+            this.db.Execute("DELETE FROM Contacts WHERE Id = @Id", new { id });
         }
 
         public Contact Update(Contact contact)
         {
-            throw new System.NotImplementedException();
+            var sql =
+                "UPDATE Contacts " +
+                "SET FirstName = @FirstName, " +
+                "    LastName  = @LastName, " +
+                "    Email     = @Email, " +
+                "    Company   = @Company, " +
+                "    Title     = @Title " +
+                "WHERE Id = @Id";
+            this.db.Execute(sql, contact);
+            return contact;
         }
     }
 }
