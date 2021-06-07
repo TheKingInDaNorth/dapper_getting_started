@@ -7,3 +7,13 @@ C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDe
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\Database\obj\Debug\predeploy.sql
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\Database\obj\Debug\Database.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\Database\obj\Debug\Database.pdb
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\bin\Debug\Database.dacpac
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\bin\Debug\Database.dll
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\bin\Debug\Database.pdb
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\Database.sqlprojAssemblyReference.cache
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\Model.xml
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\refactor.xml
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\postdeploy.sql
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\predeploy.sql
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\Database.dll
+C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Database\obj\Debug\Database.pdb
