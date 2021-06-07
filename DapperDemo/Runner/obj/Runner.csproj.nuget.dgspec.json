@@ -109,6 +109,20 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "YamlDotNet": {
+              "target": "Package",
+              "version": "[11.1.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

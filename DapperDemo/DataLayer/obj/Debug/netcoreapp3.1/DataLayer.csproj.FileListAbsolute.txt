@@ -1,5 +1,8 @@
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
