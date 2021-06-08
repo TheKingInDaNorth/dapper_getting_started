@@ -34,9 +34,19 @@ namespace DataLayer
             return this.db.GetAll<Contact>().ToList();
         }
 
+        public Contact GetFullContact(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         public void Remove(int id)
         {
             this.db.Delete(new Contact { Id = id });
+        }
+
+        public void Save(Contact contact)
+        {
+            throw new NotImplementedException();
         }
 
         public Contact Update(Contact contact)
