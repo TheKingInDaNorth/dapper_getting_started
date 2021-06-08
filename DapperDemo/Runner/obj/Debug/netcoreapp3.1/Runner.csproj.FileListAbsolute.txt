@@ -64,3 +64,4 @@ C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Runner\obj
 C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Runner\obj\Debug\netcoreapp3.1\Runner.dll
 C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Runner\obj\Debug\netcoreapp3.1\Runner.pdb
 C:\Users\tuan.vo\Desktop\git folder\dapper_getting_started\DapperDemo\Runner\obj\Debug\netcoreapp3.1\Runner.genruntimeconfig.cache
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\dapper_getting_started\DapperDemo\Runner\bin\Debug\netcoreapp3.1\Dapper.Contrib.dll
