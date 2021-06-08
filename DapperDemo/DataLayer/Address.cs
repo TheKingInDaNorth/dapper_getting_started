@@ -1,4 +1,6 @@
-﻿namespace DataLayer
+﻿using Dapper.Contrib.Extensions;
+
+namespace DataLayer
 {
     public class Address
     {
@@ -9,7 +11,9 @@
         public string City { get; set; }
         public int StateId { get; set; }
         public string PostalCode { get; set; }
+        [Computed]
         internal bool IsNew => (this.Id == default(int));
+        [Write(false)]
         public bool IsDeleted { get; set; }
     }
 }
