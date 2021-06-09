@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itztu\\OneDrive\\Desktop\\Git Repositories\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Users\\tuan.vo\\Desktop\\git folder\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itztu\\OneDrive\\Desktop\\Git Repositories\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\tuan.vo\\Desktop\\git folder\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itztu\\OneDrive\\Desktop\\Git Repositories\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\tuan.vo\\Desktop\\git folder\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "C:\\Users\\itztu\\OneDrive\\Desktop\\Git Repositories\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj",
-        "packagesPath": "C:\\Users\\itztu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itztu\\OneDrive\\Desktop\\Git Repositories\\dapper_getting_started\\DapperDemo\\DataLayer\\obj\\",
+        "projectPath": "C:\\Users\\tuan.vo\\Desktop\\git folder\\dapper_getting_started\\DapperDemo\\DataLayer\\DataLayer.csproj",
+        "packagesPath": "C:\\Users\\tuan.vo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tuan.vo\\Desktop\\git folder\\dapper_getting_started\\DapperDemo\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\itztu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tuan.vo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
